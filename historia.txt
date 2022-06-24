@@ -1,5 +1,6 @@
 Hola soy Evander
 
 Estoy aprendiendo programación con 18 años, he aprendido python intermedio
+al igual que Git y GitHub
 
 La historia de mi vida y obra maestra
